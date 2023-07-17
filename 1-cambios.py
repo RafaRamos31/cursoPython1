@@ -1,1 +1,1 @@
-# Contenido base del documento cambios, cambio 2
+# Contenido base del documento cambios
